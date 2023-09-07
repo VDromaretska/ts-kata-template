@@ -21,6 +21,7 @@
     "test": "jest",
     "test:watch": "jest --watchAll",
     "type-check": "tsc --noEmit",
-    "kata-1": "ts-node ./src/pigLatin.ts"
+    "kata-1": "ts-node ./src/pigLatin.ts",
+    "kata-class": "ts-node ./src/AccountManagement.ts"
   }
 }
